@@ -2,8 +2,8 @@
 
 End-to-end SMS spam classifier using **TF-IDF + LinearSVM**, served via a **FastAPI** backend and an interactive **Streamlit** UI, containerized with **Docker** and deployed on **Render**.
 
-🔗 **Live Demo:** <streamlit-app-url>
-🔗 **API Docs:** <api-url>/docs
+🔗 **Live Demo:** https://sms-spam-classifier-3-y2mz.onrender.com
+🔗 **API Docs:** https://sms-spam-classifier-ls7b.onrender.com/docs
 
 ## Features
 - Text cleaning pipeline (URL/number normalization, stopword removal)
@@ -96,4 +96,5 @@ Python, scikit-learn, pandas, FastAPI, Streamlit, Docker, Render
 - Probability calibration
 
 ## Author
-**Rajat**: <GitHub link> | <LinkedIn link>
+**Rajat**: <GitHub https://github.com/rajatcse9-a11y > | 
+           <LinkedIn https://www.linkedin.com/in/rajat-maurya-6a6b72354>
